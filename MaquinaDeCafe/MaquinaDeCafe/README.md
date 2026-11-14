@@ -1,7 +1,6 @@
 # Máquina de Café (TDD)
 
-**Autora:** Loreni Camila Troncoso Gutiérrez  
-**Matrícula:** 2025-0064
+**Autores:** Loreni Camila Troncoso Gutiérrez 2025-0064 | Mariely Florian 2025-1184 | Jeremi Aquino 2025-1182
 
 Proyecto Java + JUnit 4 construido a partir de los casos de prueba de la práctica.
 
